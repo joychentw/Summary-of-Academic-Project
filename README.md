@@ -12,7 +12,7 @@ Here is a list of selected projects completed during my study in business analyt
   
    
 ## [Co-purchasing Analysis via Network Analysis](https://github.com/joychentw/Copurchasing-Analysis-via-Network-Analysis)
-<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/copurchasing.png?raw=true" width="350">   
+<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/houseprice.png?raw=true?raw=true" width="350">   
 
 - **Tool**: R (techniques: network analysis)
 - **Objective**: This project is about Amazon’s co-purchase network: Which products are purchased together on Amazon. 
