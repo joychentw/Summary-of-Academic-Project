@@ -3,7 +3,7 @@ Hi, welcome to my Git!
 Here is a list of selected projects completed during my study in business analytics at University of California, Irvine. 
 
 ## [Free-to-Fee-Strategy Analysis](https://github.com/joychentw/Free-to-Fee-Strategy-Analysis)
-<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/free-to-fee.png?raw=true" width="400">   
+<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/free-to-fee.png?raw=true" width="350">   
 
 - **Tools**: Tableau for data visualization and R for the rest of the analysis (techniques: Propensity score matching, logistic regression)
 - **Objective**: Understanding what factors cause people to go from freemium to premium on an anonymized real music streaming company nicknamed High Note
@@ -12,7 +12,7 @@ Here is a list of selected projects completed during my study in business analyt
   
    
 ## [Co-purchasing Analysis via Network Analysis](https://github.com/joychentw/Copurchasing-Analysis-via-Network-Analysis)
-<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/copurchasing.png?raw=true" width="400">   
+<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/copurchasing.png?raw=true" width="350">   
 
 - **Tool**: R (techniques: network analysis)
 - **Objective**: This project is about Amazon’s co-purchase network: Which products are purchased together on Amazon. 
