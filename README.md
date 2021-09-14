@@ -22,7 +22,7 @@ Here is a list of selected projects completed during my study in business analyt
 
 
 ## [House Price Prediction](https://github.com/joychentw/House-Price-Prediction)
-<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/houseprice.png?raw=true" width="350">   
+<img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/houseprice.png?raw=true" width="400">   
 
 - **Tools**: Tableau for data visualization and R for the rest of the analysis
              techniques: linear regression, backward stepwise regression, regression tree, random forest, XGBoost, time series models
