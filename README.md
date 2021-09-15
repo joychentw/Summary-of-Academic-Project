@@ -1,6 +1,6 @@
 # Summary-of-Academic-Project
 Hi, welcome to my Git!  
-Here is a list of selected projects completed during my study in business analytics at University of California, Irvine. 
+Here is a list of selected projects completed during my study in business analytics. 
 
 ## [Free-to-Fee-Strategy Analysis](https://github.com/joychentw/Free-to-Fee-Strategy-Analysis)
 <img src="https://github.com/joychentw/Summary-of-Academic-Project/blob/main/images/free-to-fee.png?raw=true" width="350">   
