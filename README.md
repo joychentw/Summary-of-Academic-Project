@@ -1,4 +1,4 @@
-# Summary-of-Academic-Project
+# Summary-of-Projects
 Hi, welcome to my Git!  
 Here is a list of selected projects completed during my study in business analytics. 
 
